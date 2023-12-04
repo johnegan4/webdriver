@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="158241" started-at="2022-05-19T02:16:13Z" finished-at="2022-05-19T02:18:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="158241" started-at="2022-05-19T02:16:13Z" finished-at="2022-05-19T02:18:51Z">
+      <class name="com.va.dsm.testcases.DsmE2ETest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.va.dsm.testcases.DsmE2ETest@76707e36]" name="beforeTest" is-config="true" duration-ms="12507" started-at="2022-05-19T02:16:13Z" finished-at="2022-05-19T02:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Test002_DSM_Email_Compose_With_Attachment()[pri:0, instance:com.va.dsm.testcases.DsmE2ETest@76707e36]" name="Test002_DSM_Email_Compose_With_Attachment" duration-ms="145718" started-at="2022-05-19T02:16:25Z" finished-at="2022-05-19T02:18:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test002_DSM_Email_Compose_With_Attachment -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.va.dsm.testcases.DsmE2ETest@76707e36]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-05-19T02:18:51Z" finished-at="2022-05-19T02:18:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.va.dsm.testcases.DsmE2ETest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
